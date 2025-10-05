@@ -13,7 +13,7 @@ Sistem ini digunakan untuk mengelola katalog rumah dan memudahkan admin dalam ma
 - Sistem login admin
 - Tampilan katalog properti seperti [rumahningrat.com](https://rumahningrat.com)
 
-## 📷 Screenshot
+## 📷 Screenshot dan Source Code Lengkap
 https://drive.google.com/drive/folders/1Nmf_6bV-iILqcv9RgRZ1MkDz7IT5GtGz?usp=sharing
 
 
