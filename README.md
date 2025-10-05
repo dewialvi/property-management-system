@@ -14,6 +14,7 @@ Sistem ini digunakan untuk mengelola katalog rumah dan memudahkan admin dalam ma
 - Tampilan katalog properti seperti [rumahningrat.com](https://rumahningrat.com)
 
 ## 📷 Screenshot
+https://drive.google.com/drive/folders/1Nmf_6bV-iILqcv9RgRZ1MkDz7IT5GtGz?usp=sharing
 
 
 ## 📌 Cara Menjalankan
